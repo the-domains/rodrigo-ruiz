@@ -1,0 +1,28 @@
+name: Rodrigo Ruiz
+favicon: null
+layout_spectrum: 0.547043435042724
+typography_spectrum: 0.14905915572308004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7039298452436924
+  lightness: 0.743526967940852
+  saturation: 0.4461343758739531
+  rhythmicContrast: 0.1802921281196177
+purpose: []
