@@ -1,7 +1,7 @@
 name: Rodrigo Ruiz
 favicon: null
-layout_spectrum: 0.547043435042724
-typography_spectrum: 0.14905915572308004
+layout_spectrum: 1
+typography_spectrum: 0.75376
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.7039298452436924
-  lightness: 0.743526967940852
-  saturation: 0.4461343758739531
-  rhythmicContrast: 0.1802921281196177
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
