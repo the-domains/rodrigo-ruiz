@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rodrigo Ruiz]]></title>
+        <description><![CDATA[Rodrigo Ruiz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 02:20:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[«El Sacro Misterio de la Música»]]></title>
+            <description><![CDATA[<article><h1>«El Sacro Misterio de la Música»</h1><p>«El Sacro Misterio de la Música» es una invitación a recuperar este lenguaje con todo su alfabeto alegórico a través del diccionario de la intuición.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d063f119e57baeca3a68414cb6e3b38e9f5472f.png"></article>]]></description>
+            <link>undefinedel-sacro-misterio-de-la-musica/index.html</link>
+            <guid isPermaLink="false">ae949a5d-c72d-4356-b121-0f434e2d47f8</guid>
+            <pubDate>Mon, 28 Dec 2015 02:20:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
